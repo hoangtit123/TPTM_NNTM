@@ -37,7 +37,7 @@ Quy trình xử lý trong hệ thống được mô tả như sau:
 
 ### 🧭 Sơ đồ hoạt động minh hoạ:
 
-<img src="images/bieudohoatdong.png" alt="Sơ đồ cơ chế hoạt động" width="700"/>
+<img src="https://github.com/hoangtit123/TPTM_NNTM/blob/master/a%CC%89nh/bieudohoatdong.png" alt="Sơ đồ cơ chế hoạt động" width="500"/>
 
 ---
 
