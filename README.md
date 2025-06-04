@@ -41,10 +41,56 @@ Quy trình xử lý trong hệ thống được mô tả như sau:
 
 ---
 
-## 📝 Lưu ý:
+---
 
-- Tất cả dữ liệu quét thẻ, giờ vào – ra và thanh toán được lưu vào hệ thống cơ sở dữ liệu.
-- Các điều kiện hợp lệ bao gồm: thẻ đúng, chưa vào trước đó, không rời bãi ảo...
+## 🛠️ Sơ đồ lắp đặt hệ thống
+
+Hình ảnh bên dưới mô tả cách kết nối giữa các thiết bị phần cứng như: ESP32, barrier, màn hình hiển thị, cảm biến, thẻ RFID,...
+
+<img src="https://github.com/hoangtit123/TPTM_NNTM/blob/master/a%CC%89nh/sodolapdat.png" alt="Sơ đồ lắp đặt" width="400"/>
+
+---
+
+## 🧱 Mô hình sản phẩm thực tế
+
+Mô hình vật lý được lắp đặt với đầy đủ phần cứng: thẻ RFID, LED, barrier servo, mạch điều khiển, nguồn điện,...
+
+<img src="https://github.com/hoangtit123/TPTM_NNTM/blob/master/a%CC%89nh/mohinhsanpham.png" alt="Mô hình sản phẩm" width="400"/>
+
+---
+
+## 🖥️ Giao diện hệ thống
+
+### 📋 Giao diện lịch sử ra vào
+
+<img src="https://github.com/hoangtit123/TPTM_NNTM/blob/master/a%CC%89nh/giaodienlichsuravao.png" alt="Giao diện lịch sử ra vào" width="400"/>
+
+---
+
+### 🔍 Giao diện tìm kiếm thông tin
+
+<img src="https://github.com/hoangtit123/TPTM_NNTM/blob/master/a%CC%89nh/giaodientimkiem.png" alt="Giao diện tìm kiếm" width="400"/>
+
+---
+
+### ➕ Giao diện thêm thẻ mới
+
+<img src="https://github.com/hoangtit123/TPTM_NNTM/blob/master/a%CC%89nh/giaodienthemthe.png" alt="Giao diện tính tiền" width="400"/>
+
+
+---
+
+### 💰 Giao diện tính tiền gửi xe
+
+<img src="https://github.com/hoangtit123/TPTM_NNTM/blob/master/a%CC%89nh/giaodientinhtien.png" alt="Giao diện tính tiền" width="400"/>
+
+---
+
+### 🛑 Giao diện đóng/mở thanh chắn
+
+<img src="https://github.com/hoangtit123/TPTM_NNTM/blob/master/a%CC%89nh/giaodiendongmothanhchan.png" alt="Giao diện đóng mở thanh chắn" width="400"/>
+
+---
 
 
 
